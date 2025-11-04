@@ -1,8 +1,6 @@
-# Castor - Quick Start
+# HAI Lab Doppel
 
-Get up and running in 5 minutes!
-
-## One-Command Setup
+## Setup
 
 ```bash
 # 1. Install
