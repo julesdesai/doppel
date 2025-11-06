@@ -1,8 +1,8 @@
 # Anima
 
-**Breathe life into ideas** — Animate any persona through their writings.
+**HAI Lab Anima - Animate (bring to life) any persona through their writings.
 
-Anima is a **multi-persona writing emulation system** that uses advanced RAG (Retrieval-Augmented Generation) to create AI agents that write in the exact style of specific individuals or historical figures. Unlike standard chatbots that *talk about* someone's ideas, Anima produces text that reads as if the person themselves wrote it.
+Anima is an inference-only compute system that brings anyone to life from their past writings. It uses advanced agential self-orchestration and RAG to create AI agents that write in the exact style of specific individuals or historical figures. Unlike standard chatbots that *talk about* someone's ideas, Anima produces text that reads as if the person themselves wrote it. The system can be used in two main ways: public figures (e.g. academics and thinkers of the past) can be reanimated, and we can engage with them in simulated dialogue; or, one's personal writing (email, chat histories, written works) can be animated, to create a simulacra of one's own personality. We are working to allow  local embedding and inference, so that this latter is completely private and does not rely on centralised infrastructure.
 
 ## What Makes Anima Different?
 
