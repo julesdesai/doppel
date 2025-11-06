@@ -4,17 +4,9 @@
 
 Anima is an inference-only compute system that brings anyone to life from their past writings. It uses advanced agential self-orchestration and RAG to create AI agents that write in the exact style of specific individuals or historical figures. Unlike standard chatbots that *talk about* someone's ideas, Anima produces text that reads as if the person themselves wrote it. The system can be used in two main ways: public figures (e.g. academics and thinkers of the past) can be reanimated, and we can engage with them in simulated dialogue; or, one's personal writing (email, chat histories, written works) can be animated, to create a simulacra of one's own personality. We are working to allow  local embedding and inference, so that this latter is completely private and does not rely on centralised infrastructure.
 
-## What Makes Anima Different?
-
-- **Style-First Emulation**: Not just knowledge retrieval—captures sentence structure, vocabulary, rhetoric, and thought patterns
-- **Self-Orchestrating Protocol**: The LLM decides when and what to retrieve using a two-stage strategy (content + style)
-- **Isolated Personas**: Each persona has its own vector database collection with complete data separation
-- **Mandatory Grounding**: Every response must be traceable to the source corpus—no hallucinations or generic knowledge
-- **First-Person Voice**: Responses are written *as* the persona, not *about* them
-
 ## Quick Start
 
-**Try the included personas** (Taylor, Heidegger, Wittgenstein):
+**Included personas** (Taylor, Heidegger, Wittgenstein):
 
 ```bash
 # 1. Install dependencies
